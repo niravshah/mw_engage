@@ -1,0 +1,21 @@
+{
+  "name": "engage",
+  "description": "MoveWithin Engage",
+  "main": "gulpfile.js",
+  "authors": [
+    "niravshah <nirav.shah83@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/niravshah/mw_engage",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-route": "^1.5.7",
+    "angular": "^1.5.7"
+  }
+}
